@@ -1,1 +1,28 @@
-theme: jekyll-theme-cayman
+title: Samantha Prestrelski
+author:
+  name: Samantha Prestrelski
+  email: sprestrelski@ucsd.edu
+madewith: > # this means to ignore newlines until "show_excerpts:"
+  Made with ♡ in San Diego, California
+
+show_excerpts: false # set to true to show excerpts on the homepage
+url: "https://sprestrelski.github.io"
+github_username:  sprestrelski
+
+minima:
+  # generate social links in footer
+  social_links:
+    github:  sprestrelski
+    linkedin: samanthaprestrelski
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+- about.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
