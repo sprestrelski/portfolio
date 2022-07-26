@@ -1,14 +1,13 @@
 ---
 layout: home
 ---
-
 <img style="float: left; height:175px;margin:0 20px 20px 0" src="assets/sprestrelski.jpg">
 
 Hello there!  
 
-I'm Samantha, and I'm a Math-Computer Science major at [UC San Diego](https://ucsd.edu/).
+I'm Samantha, a Math-Computer Science major at [UC San Diego](https://ucsd.edu/).
 
-Currently researching machine learning for sound processing under Dr. Curt Schurgers.
+Researching machine learning for sound processing under Dr. Curt Schurgers.
 
 Email: sprestrelski \[at\] ucsd.edu  
 
@@ -22,7 +21,8 @@ Email: sprestrelski \[at\] ucsd.edu
 
 **Web Development Intern @ RASIRC**  
 *Apr 2021 - Mar 2022*  
-- Redesigned [company website](https://www.rasirc.com/), enabling easier collaboration for layman website updates and improved contact form system
+- Redesigned [company website](https://www.rasirc.com/), enabling non-technical staff to make website updates
+- Improved contact form system
 
 **Sony Connected Learning Pathway**  
 *Sept 2021 - Nov 2021*
