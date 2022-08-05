@@ -7,7 +7,7 @@ Hello there!
 
 I'm Samantha, a Math-Computer Science major at [UC San Diego](https://ucsd.edu/).
 
-Researching machine learning for sound processing under Dr. Curt Schurgers.
+I'm currently conducting machine learning research for sound processing under Dr. Curt Schurgers.
 
 Email: sprestrelski \[at\] ucsd.edu  
 
@@ -15,19 +15,21 @@ Email: sprestrelski \[at\] ucsd.edu
 ### Experience
 **Research Intern @ UCSD Jacobs School of Engineering**  
 *Mar 2022 - present*  
-- Using machine learning and passive acoustic monitoring to identify bird calls on the Acoustic Species Identification team
-- Developing [PyHa](https://github.com/UCSD-E4E/PyHa/), a Python package to convert field audio to species-specific, temporally-labeled annotations
+- Using deep learning models to process avian vocalizations on the Acoustic Species Identification team, intended to measure avian biodiversity in the Peruvian Amazon
+- Developing [PyHa](https://github.com/UCSD-E4E/PyHa/), a Python package to convert field audio to species-specific, temporally-labeled annotations for use in an autonomous machine learning pipeline
+- Awarded scholarship from [Summer Research Internship Program (SRIP)](https://www.ece.ucsd.edu/undergraduate/SRIP) through competitive application
 - Research Group: [Engineers for Exploration](https://e4e.ucsd.edu)
 
 **Web Development Intern @ RASIRC**  
 *Apr 2021 - Mar 2022*  
-- Redesigned [company website](https://www.rasirc.com/), enabling non-technical staff to make website updates
-- Improved contact form system
+- Redesigned [company website](https://www.rasirc.com/) and migrated it from HTML to WordPress, enabling non-technical staff to easily make website updates
+-  Implemented a new contact form system for requesting meetings and product information
 
-**Sony Connected Learning Pathway**  
+**SONY Connected Learning Pathway**  
 *Sept 2021 - Nov 2021*
-- Designed software solutions for enhancing connectivity between TVs and mobile devices and integrating personalization as a core feature for TVs. 
-- Collaboration Program between UCSD Design Lab and Sony Human Factors Team  
+- Designed software solutions for enhancing connectivity between TVs and mobile devices and integrating personalization as a core feature for TVs
+- Performed market research and competitive analysis on existing technology 
+- Collaboration program between UCSD Design Lab and SONY Human Factors Team  
 
 * * *
 
@@ -47,14 +49,12 @@ Stack: Express, Heroku, and PostgreSQL
 * * *
 
 ### Relevant Classes
-Course Descriptions: [CSE](https://catalog.ucsd.edu/courses/CSE.html) | [COGS](https://catalog.ucsd.edu/courses/COGS.html) | [ECE](https://catalog.ucsd.edu/courses/ECE.html) | [MATH](https://catalog.ucsd.edu/courses/MATH.html)  
-
 - [CSE 11: Accelerated Intro to Programming](https://ucsd-cse11-f21.github.io/syllabus.html)
-- CSE 12: Basic Data Structures and Object-Oriented Design
+- [CSE 12: Basic Data Structures and Object-Oriented Design](https://catalog.ucsd.edu/courses/CSE.html#cse12)
 - [CSE 15L: Software Tools and Techniques Laboratory](https://ucsd-cse15l-w22.github.io/)
     - [Lab Report Website](https://sprestrelski.github.io/cse15l-lab-reports/)
 - [CSE 30: Computer Organization and Systems Programming](https://cseweb.ucsd.edu/~muller/#classes)
-- MATH 18: Linear Algebra
-- MATH 20D: Differential Equations
-- MATH 20E: Vector Calculus
-- MATH 109: Mathematical Reasoning
+- [MATH 18: Linear Algebra](https://catalog.ucsd.edu/courses/MATH.html#math18)
+- [MATH 20D: Differential Equations](https://catalog.ucsd.edu/courses/MATH.html#math20d)
+- [MATH 20E: Vector Calculus](https://catalog.ucsd.edu/courses/MATH.html#math20e)
+- [MATH 109: Mathematical Reasoning](https://catalog.ucsd.edu/courses/MATH.html#math109)
