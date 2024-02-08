@@ -21,13 +21,13 @@ Email: sprestrelski \[at\] ucsd.edu
 - Awarded scholarship x2 times from [Summer Research Internship Program (SRIP)](https://www.ece.ucsd.edu/undergraduate/SRIP)
 - Research Group: [Engineers for Exploration](https://e4e.ucsd.edu)
 
-**CSE Tutor**  
+**Tutor @ UCSD CSE Department**  
 *Jan 2024 - Mar 2024*
 - Undergraduate tutor for CSE 105: Theory of Computation under Prof. Mia Minnes.
 - Lead group office hours for up to 12 students at a time, answer student questions during lecture, help create sample solutions for the homework, and grade assignments
 - [Course Website](https://theory-cs.github.io/website/courseInfo.html)
 
-**CSE-PACE Lead Peer Mentor**
+**Lead Peer Mentor @ CSE-PACE**  
 *Sept 2023 - June 2024*  
 - Lead 1-2 mentoring sessions per week on computer science topics such as machine learning, AI ethics, and academic/career pathways to a cohort of 6-10 first year and transfer students.
 - Program: [Peer-Lead Academic Cohort Experiences](https://pace.ucsd.edu/)
@@ -69,6 +69,16 @@ Project Partner: [Jeremy Nguyen](https://www.linkedin.com/in/jeremynguyendev)
 **Overheard SPIS** - A community message posting board web app.  
 Stack: Express, Heroku, and PostgreSQL     
 *Aug 2021* ([Source](https://github.com/sprestrelski/overheardspis))  
+
+[**Art Portfolio**](https://sprestrelski.weebly.com/) - A site to store my digital art work in high school using Weebly.  
+*Jan 2019 - Jun 2021*
+
+[**Internet Safety for Everyone**](https://www.isafesd.org/) - A site for an internet safety community service group using Weebly.  
+*Sept 2018 - Jun 2021* 
+
+[**CCA Girls Who Code**](http://ccagirlswhocode.weebly.com/) - A site for my high school Girls Who Code club and robotics team using Weebly.
+*Aug 2017 - Jun 2021*
+
 
 * * *
 
