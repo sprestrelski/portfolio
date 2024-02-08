@@ -17,12 +17,25 @@ Email: sprestrelski \[at\] ucsd.edu
 *Mar 2022 - present*  
 - Using [deep learning models](https://github.com/UCSD-E4E/acoustic-multiclass-training) to process avian vocalizations on the Acoustic Species Identification team, intended to measure avian biodiversity in the Peruvian Amazon
 - Developing [PyHa](https://github.com/UCSD-E4E/PyHa/), a Python package to convert field audio to species-specific, temporally-labeled annotations for use in an autonomous machine learning pipeline
-- Awarded scholarship x2 times from [Summer Research Internship Program (SRIP)](https://www.ece.ucsd.edu/undergraduate/SRIP) through competitive application
+- Awarded Halıcıoğlu Data Science Institute [Undergraduate Research Scholarship](https://datascience.ucsd.edu/32-undergraduate-scholarships/)
+- Awarded scholarship x2 times from [Summer Research Internship Program (SRIP)](https://www.ece.ucsd.edu/undergraduate/SRIP)
 - Research Group: [Engineers for Exploration](https://e4e.ucsd.edu)
 
+**CSE Tutor**  
+*Jan 2024 - Mar 2024*
+- Undergraduate tutor for CSE 105: Theory of Computation under Prof. Mia Minnes.
+- Lead group office hours for up to 12 students at a time, answer student questions during lecture, help create sample solutions for the homework, and grade assignments
+- [Course Website](https://theory-cs.github.io/website/courseInfo.html)
+
+**CSE-PACE Lead Peer Mentor**
+*Sept 2023 - June 2024*  
+- Lead 1-2 mentoring sessions per week on computer science topics such as machine learning, AI ethics, and academic/career pathways to a cohort of 6-10 first year and transfer students.
+- Program: [Peer-Lead Academic Cohort Experiences](https://pace.ucsd.edu/)
+
 **Teaching Assistant @ COSMOS UCSD Cluster 10: Robot Inventors**  
-*July 2023 - August 2023*  
-- Lead hands-on lab hours for 21 high school students to teach skills in mechanical design, electronics, and programming through projects: includes battlebots, a line-following robot, and a walking robot using a Raspberry Pi and OpenCV
+*Jul 2023 - Aug 2023*  
+- Led hands-on lab hours for 21 high school students to teach skills in mechanical design, electronics, and programming
+- Advised and debugged students' week-long projects including battlebots, line-following robots, and walking robots using a Raspberry Pi and OpenCV
 - Program: [COSMOS UCSD](https://jacobsschool.ucsd.edu/cosmos/clusters)
 
 **Web Development Intern @ RASIRC**  
@@ -39,15 +52,21 @@ Email: sprestrelski \[at\] ucsd.edu
 * * *
 
 ### Websites
+[**Nutrition Calculator API**](https://rapidapi.com/sprestrelski/api/nutrition-calculator) - API for dietary reference intakes, BMI, and daily caloric needs.  
+*January 2024*  
+
+[**Association for Computing Machinery - AI Division**](https://ai.acmucsd.com/) -  A club website using React and TypeScript.  
+*September 2023* ([Source](https://github.com/acmucsd/acm-ai-site))  
+
 [**RASIRC**](https://www.rasirc.com/) - A company website using HTML, CSS, and Wordpress.  
 *Apr 2021 - Mar 2022*  
 
-[**Rhythm Room**](http://rhythmroom.herokuapp.com/) - A web app enabling synchronous music listening across multiple clients.   
+**Rhythm Room** - A web app enabling synchronous music listening across multiple clients.   
 Stack: Express, React, Node.js, Heroku, the YouTube API, and Socket.io  
-Project Partner: [Jeremy Nguyen](https://www.linkedin.com/in/jeremynguyencs)  
+Project Partner: [Jeremy Nguyen](https://www.linkedin.com/in/jeremynguyendev)  
 *Aug 2021* ([Source](https://github.com/sprestrelski/rhythm-room))  
 
-[**Overheard SPIS**](http://overheardspis.herokuapp.com/) - A community message posting board web app.  
+**Overheard SPIS** - A community message posting board web app.  
 Stack: Express, Heroku, and PostgreSQL     
 *Aug 2021* ([Source](https://github.com/sprestrelski/overheardspis))  
 
@@ -62,12 +81,17 @@ Stack: Express, Heroku, and PostgreSQL
 - CSE 100: Advanced Data Structures
 - [CSE 101: Design and Analysis of Algorithms](https://cseweb.ucsd.edu/~dakane/CSE101/)
 - [CSE 105: Theory of Computation](https://theory-cs.github.io/website/courseInfo.html)
+- [CSE 110: Software Engineering](https://sites.google.com/ucsd.edu/cse110fall2023/home)
+  - [Project Repository](https://github.com/sprestrelski/pantrypal)
+- CSE 140: Components and Design Techniques for Digital Systems
+- CSE 140L: Digital Systems Laboratory
 - [CSE 145: Embedded Systems Design Project](https://kastner.ucsd.edu/ryan/cse145/)
   - [Project Report](https://drive.google.com/file/d/1SXEis3fDLvjq8cCrmwD2GHVhplUxQ8rj/view)
+  - [Project Documentation](https://github.com/UCSD-E4E/acoustic-multiclass-training/blob/main/documentation/cse_145_report.md)
 - CSE 191: Inclusive CS Instruction: CS Education From Theory To Practice
-  - [Archive of Seminar Material](https://sprestrelski.notion.site/c6033b87623c4a0e9611d64c3037344d?v=85aa05c2a0cc4fd2b56208b221be501a&pvs=4)
-- COGS 108
-  - Project Report
+  - [Archive of Seminar Material](https://inclusivecs.github.io/)
+- [COGS 108](https://github.com/COGS108)
+  - [Project Report](https://github.com/sprestrelski/smog-walkability-analysis/blob/main/Report.ipynb)
 - MATH 18: Linear Algebra
 - MATH 20D: Differential Equations
 - MATH 20E: Vector Calculus
@@ -77,4 +101,10 @@ Stack: Express, Heroku, and PostgreSQL
 - MATH 180: Introduction to Probability
 - MATH 181A: Introduction to Mathematical Statistics
 
-Updated for Spring 2023.
+Course descriptions:
+- [CSE: Computer Science and Engineering](https://catalog.ucsd.edu/courses/CSE.html)
+- [COGS: Cognitive Science](https://catalog.ucsd.edu/courses/COGS.html)
+- [MATH: Mathematics](https://catalog.ucsd.edu/courses/MATH.html)
+
+
+Updated for Fall 2023.  
