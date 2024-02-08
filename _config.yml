@@ -1,4 +1,5 @@
 title: Samantha Prestrelski
+logo: /assets/img/orange.ico
 author:
   name: Samantha Prestrelski
   email: sprestrelski@ucsd.edu
@@ -23,6 +24,11 @@ header_pages:
 # Build settings
 theme: minima
 
+permalink: /:slug/
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-redirect-from
+
+github: [metadata]
