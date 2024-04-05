@@ -92,7 +92,7 @@ Stack: Express, Heroku, and PostgreSQL
 - [CSE 101: Design and Analysis of Algorithms](https://cseweb.ucsd.edu/~dakane/CSE101/)
 - [CSE 105: Theory of Computation](https://theory-cs.github.io/website/courseInfo.html)
 - [CSE 110: Software Engineering](https://sites.google.com/ucsd.edu/cse110fall2023/home)
-  - [Project Repository](https://github.com/sprestrelski/pantrypal)
+  - [Project Repository: PantryPal](https://github.com/sprestrelski/pantrypal)
 - CSE 140: Components and Design Techniques for Digital Systems
 - CSE 140L: Digital Systems Laboratory
 - [CSE 145: Embedded Systems Design Project](https://kastner.ucsd.edu/ryan/cse145/)
@@ -100,8 +100,12 @@ Stack: Express, Heroku, and PostgreSQL
   - [Project Documentation](https://github.com/UCSD-E4E/acoustic-multiclass-training/blob/main/documentation/cse_145_report.md)
 - CSE 191: Inclusive CS Instruction: CS Education From Theory To Practice
   - [Archive of Seminar Material](https://inclusivecs.github.io/)
-- [COGS 108](https://github.com/COGS108)
-  - [Project Report](https://github.com/sprestrelski/smog-walkability-analysis/blob/main/Report.ipynb)
+- [COGS 108](https://github.com/COGS108): Data Science in Practice
+  - [Project Report: Smog Walkability Analysis](https://github.com/sprestrelski/smog-walkability-analysis/blob/main/Report.ipynb)
+- COGS 118B: Unsupervised Machine Learning
+  - [Project Report: Heart Disease Prediction](https://github.com/sprestrelski/heart-disease-prediction)
+- LTCS 180: Programming for the Humanities
+  - [Project Report: Multilingual Sentiment Analysis in News](https://github.com/sprestrelski/multilingual-sentiment-analysis)
 - MATH 18: Linear Algebra
 - MATH 20D: Differential Equations
 - MATH 20E: Vector Calculus
@@ -117,4 +121,4 @@ Course descriptions:
 - [MATH: Mathematics](https://catalog.ucsd.edu/courses/MATH.html)
 
 
-Updated for Fall 2023.  
+Updated for Winter 2024.  
