@@ -7,19 +7,24 @@ Hello there!
 
 I'm Samantha, a Math-Computer Science major at [UC San Diego](https://ucsd.edu/).
 
-I'm currently conducting machine learning research for sound processing under Dr. Curt Schurgers and Dr. Ryan Kastner.
+I'm currently interning at ServiceNow on the [IntegrationHub](https://www.servicenow.com/products/integration-hub.html) Core team!
 
-Email: sprestrelski \[at\] ucsd.edu  
+Email: sprestrelski \[at\] ucsd \[dot\] edu  
 
 * * *
 ### Experience
+**Software Engineering Intern @ ServiceNow**  
+*Jun 2024 - Sep 2024*  
+- Full-stack web development with React and Java.
+
 **Research Intern & Project Co-lead @ UCSD Jacobs School of Engineering**  
-*Mar 2022 - present*  
+*Mar 2022 - Jun 2024*  
 - Using [deep learning models](https://github.com/UCSD-E4E/acoustic-multiclass-training) to process avian vocalizations on the Acoustic Species Identification team, intended to measure avian biodiversity in the Peruvian Amazon
 - Developing [PyHa](https://github.com/UCSD-E4E/PyHa/), a Python package to convert field audio to species-specific, temporally-labeled annotations for use in an autonomous machine learning pipeline
 - Awarded Halıcıoğlu Data Science Institute [Undergraduate Research Scholarship](https://datascience.ucsd.edu/32-undergraduate-scholarships/)
 - Awarded scholarship x2 times from [Summer Research Internship Program (SRIP)](https://www.ece.ucsd.edu/undergraduate/SRIP)
 - Research Group: [Engineers for Exploration](https://e4e.ucsd.edu)
+  - PIs: Dr. Ryan Kastner and Dr. Curt Schurgers
 
 **Tutor @ UCSD CSE Department**  
 *Jan 2024 - Mar 2024*
@@ -76,7 +81,7 @@ Stack: Express, Heroku, and PostgreSQL
 [**Internet Safety for Everyone**](https://www.isafesd.org/) - A site for an internet safety community service group using Weebly.  
 *Sept 2018 - Jun 2021* 
 
-[**CCA Girls Who Code**](http://ccagirlswhocode.weebly.com/) - A site for my high school Girls Who Code club and robotics team using Weebly.
+[**CCA Girls Who Code**](http://ccagirlswhocode.weebly.com/) - A site for my high school Girls Who Code club and robotics team using Weebly.  
 *Aug 2017 - Jun 2021*
 
 
@@ -93,17 +98,21 @@ Stack: Express, Heroku, and PostgreSQL
 - [CSE 105: Theory of Computation](https://theory-cs.github.io/website/courseInfo.html)
 - [CSE 110: Software Engineering](https://sites.google.com/ucsd.edu/cse110fall2023/home)
   - [Project Repository: PantryPal](https://github.com/sprestrelski/pantrypal)
+- [CSE 130: Programming Languages: Principles and Paradigms](https://nadia-polikarpova.github.io/cse130-web/)
 - CSE 140: Components and Design Techniques for Digital Systems
 - CSE 140L: Digital Systems Laboratory
+- CSE 141: Introduction to Computer Architecture
 - [CSE 145: Embedded Systems Design Project](https://kastner.ucsd.edu/ryan/cse145/)
   - [Project Report](https://drive.google.com/file/d/1SXEis3fDLvjq8cCrmwD2GHVhplUxQ8rj/view)
   - [Project Documentation](https://github.com/UCSD-E4E/acoustic-multiclass-training/blob/main/documentation/cse_145_report.md)
 - CSE 191: Inclusive CS Instruction: CS Education From Theory To Practice
   - [Archive of Seminar Material](https://inclusivecs.github.io/)
-- [COGS 108](https://github.com/COGS108): Data Science in Practice
+- [COGS 108: Data Science in Practice](https://github.com/COGS108)
   - [Project Report: Smog Walkability Analysis](https://github.com/sprestrelski/smog-walkability-analysis/blob/main/Report.ipynb)
 - COGS 118B: Unsupervised Machine Learning
   - [Project Report: Heart Disease Prediction](https://github.com/sprestrelski/heart-disease-prediction)
+- COGS 188: Artificial Intelligence Algorithms
+  - [Project Report: Reinforcement Learning to Avoid Antagonistic Vehicles](https://github.com/YashPatki02/HighwayEnv-COGS188/blob/master/writeup.ipynb)
 - LTCS 180: Programming for the Humanities
   - [Project Report: Multilingual Sentiment Analysis in News](https://github.com/sprestrelski/multilingual-sentiment-analysis)
 - MATH 18: Linear Algebra
@@ -121,4 +130,4 @@ Course descriptions:
 - [MATH: Mathematics](https://catalog.ucsd.edu/courses/MATH.html)
 
 
-Updated for Winter 2024.  
+Updated for Spring 2024.  
