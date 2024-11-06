@@ -7,15 +7,13 @@ Hello there!
 
 I'm Samantha, a Math-Computer Science major at [UC San Diego](https://ucsd.edu/).
 
-I'm currently interning at ServiceNow on the [IntegrationHub](https://www.servicenow.com/products/integration-hub.html) Core team!
-
 Email: sprestrelski \[at\] ucsd \[dot\] edu  
 
 * * *
-### Experience
+### Work Experience
 **Software Engineering Intern @ ServiceNow**  
 *Jun 2024 - Sep 2024*  
-- Full-stack web development with React and Java.
+- Full-stack web development with React and Java on the [IntegrationHub](https://www.servicenow.com/products/integration-hub.html) Core team
 
 **Research Intern & Project Co-lead @ UCSD Jacobs School of Engineering**  
 *Mar 2022 - Jun 2024*  
@@ -25,23 +23,10 @@ Email: sprestrelski \[at\] ucsd \[dot\] edu
 - Awarded scholarship x2 times from [Summer Research Internship Program (SRIP)](https://www.ece.ucsd.edu/undergraduate/SRIP)
 - Research Group: [Engineers for Exploration](https://e4e.ucsd.edu)
   - PIs: Dr. Ryan Kastner and Dr. Curt Schurgers
+- Papers:  
+  - Jacob Ayers, Sean Perry, **Samantha Prestrelski,** Tianqi Zhang, Ludwig von Schoenfeldt, Mugen Blue, Gabriel Steinberg, Mathias Tobler, Ian Ingram, Curt Schurgers, and Ryan Kastner. *A Deep Learning Approach to the Automated Segmentation of Bird Vocalizations from Weakly Labeled Crowd-sourced Audio*. NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning (Spotlight Poster). 2024.
+  - Christopher L. Crutchfield, Kyle S. Hu, Vivaswat Suresh, Ana I. Perez, Avik Ghosh, Hamish J. Grant, Kyle Tran, **Samantha Prestrelski,** Ronan Wallace, Nathan Hui, Jack Elstner, Dylan Heppell, Jennifer Loch, Alli Candelmo, Brice X. Semmens, Curt Schurgers, and Ryan Kastner. *FishSense Lite: A camera-based, single laser system for in situ fish length measurement.* Submitted for publication. 2024.
 
-**Tutor @ UCSD CSE Department**  
-*Jan 2024 - Mar 2024*
-- Undergraduate tutor for CSE 105: Theory of Computation under Prof. Mia Minnes.
-- Lead group office hours for up to 12 students at a time, answer student questions during lecture, help create sample solutions for the homework, and grade assignments
-- [Course Website](https://theory-cs.github.io/website/courseInfo.html)
-
-**Lead Peer Mentor @ CSE-PACE**  
-*Sept 2023 - June 2024*  
-- Lead 1-2 mentoring sessions per week on computer science topics such as machine learning, AI ethics, and academic/career pathways to a cohort of 6-10 first year and transfer students.
-- Program: [Peer-Lead Academic Cohort Experiences](https://pace.ucsd.edu/)
-
-**Teaching Assistant @ COSMOS UCSD Cluster 10: Robot Inventors**  
-*Jul 2023 - Aug 2023*  
-- Led hands-on lab hours for 21 high school students to teach skills in mechanical design, electronics, and programming
-- Advised and debugged students' week-long projects including battlebots, line-following robots, and walking robots using a Raspberry Pi and OpenCV
-- Program: [COSMOS UCSD](https://jacobsschool.ucsd.edu/cosmos/clusters)
 
 **Web Development Intern @ RASIRC**  
 *Apr 2021 - Mar 2022*  
@@ -52,16 +37,34 @@ Email: sprestrelski \[at\] ucsd \[dot\] edu
 *Sept 2021 - Nov 2021*
 - Designed software solutions for enhancing connectivity between TVs and mobile devices and integrating personalization as a core feature for TVs
 - Performed market research and competitive analysis on existing technology 
-- Collaboration program between UCSD Design Lab and SONY Human Factors Team  
+- Collaboration program between UCSD Design Lab and SONY Human Factors Team
+
+### Mentorship Experience
+**Lead Peer Mentor @ CSE-PACE**  
+*Sept 2023 - June 2025*  
+- Lead 1-2 mentoring sessions per week on computer science topics such as machine learning, AI ethics, and academic/career pathways to first year and transfer students.
+- Program: [Peer-Lead Academic Cohort Experiences](https://pace.ucsd.edu/)
+- 
+**Tutor @ UCSD CSE Department**  
+*Jan 2024 - Mar 2024*
+- Undergraduate tutor for CSE 105: Theory of Computation under Prof. Mia Minnes.
+- Lead group office hours for up to 12 students at a time, answer student questions during lecture, help create sample solutions for the homework, and grade assignments
+- [Course Website](https://theory-cs.github.io/website/courseInfo.html)
+
+**Teaching Assistant @ COSMOS UCSD Cluster 10: Robot Inventors**  
+*Jul 2023 - Aug 2023*  
+- Led hands-on lab hours for 21 high school students to teach skills in mechanical design, electronics, and programming
+- Advised and debugged students' week-long projects including battlebots, line-following robots, and walking robots using a Raspberry Pi and OpenCV
+- Program: [COSMOS UCSD](https://jacobsschool.ucsd.edu/cosmos/clusters) 
 
 * * *
 
 ### Websites
-[**Nutrition Calculator API**](https://rapidapi.com/sprestrelski/api/nutrition-calculator) - API for dietary reference intakes, BMI, and daily caloric needs.  
-*January 2024*  
+[**Association for Computing Machinery - AI Division**](https://ai.acmucsd.com/) -  A club website using React and TypeScript. Competition portal for yearly machine learning competition.    
+*Sept 2023 - Jun 2025* ([Source](https://github.com/acmucsd/acm-ai-site))  
 
-[**Association for Computing Machinery - AI Division**](https://ai.acmucsd.com/) -  A club website using React and TypeScript.  
-*September 2023* ([Source](https://github.com/acmucsd/acm-ai-site))  
+[**Nutrition Calculator API**](https://rapidapi.com/sprestrelski/api/nutrition-calculator) - API for dietary reference intakes, BMI, and daily caloric needs.  
+*Jan 2024*   
 
 [**RASIRC**](https://www.rasirc.com/) - A company website using HTML, CSS, and Wordpress.  
 *Apr 2021 - Mar 2022*  
@@ -130,4 +133,4 @@ Course descriptions:
 - [MATH: Mathematics](https://catalog.ucsd.edu/courses/MATH.html)
 
 
-Updated for Spring 2024.  
+Updated for Fall 2024. 
