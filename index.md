@@ -9,6 +9,10 @@ I'm Samantha, a Math-Computer Science major at [UC San Diego](https://ucsd.edu/)
 
 Email: sprestrelski \[at\] ucsd \[dot\] edu  
 
+.  
+
+.  
+
 * * *
 ### Work Experience
 **Software Engineering Intern @ ServiceNow**  
@@ -44,7 +48,7 @@ Email: sprestrelski \[at\] ucsd \[dot\] edu
 *Sept 2023 - June 2025*  
 - Lead 1-2 mentoring sessions per week on computer science topics such as machine learning, AI ethics, and academic/career pathways to first year and transfer students.
 - Program: [Peer-Lead Academic Cohort Experiences](https://pace.ucsd.edu/)
-- 
+  
 **Tutor @ UCSD CSE Department**  
 *Jan 2024 - Mar 2024*
 - Undergraduate tutor for CSE 105: Theory of Computation under Prof. Mia Minnes.
