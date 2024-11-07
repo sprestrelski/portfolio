@@ -7,11 +7,11 @@ Hello there!
 
 I'm Samantha, a Math-Computer Science major at [UC San Diego](https://ucsd.edu/).
 
-Email: sprestrelski \[at\] ucsd \[dot\] edu  
+Interests: machine learning, artificial intelligence, software development, data visualization, markup languages, [fish](https://fis.sh/)
 
-.  
+Email: sprestrelski \[at\] ucsd \[dot\] edu      
 
-.  
+![]()  
 
 * * *
 ### Work Experience
@@ -19,23 +19,22 @@ Email: sprestrelski \[at\] ucsd \[dot\] edu
 *Jun 2024 - Sep 2024*  
 - Full-stack web development with React and Java on the [IntegrationHub](https://www.servicenow.com/products/integration-hub.html) Core team
 
-**Research Intern & Project Co-lead @ UCSD Jacobs School of Engineering**  
+**Undergraduate Researcher & Project Co-lead @ UCSD Jacobs School of Engineering**  
 *Mar 2022 - Jun 2024*  
-- Using [deep learning models](https://github.com/UCSD-E4E/acoustic-multiclass-training) to process avian vocalizations on the Acoustic Species Identification team, intended to measure avian biodiversity in the Peruvian Amazon
-- Developing [PyHa](https://github.com/UCSD-E4E/PyHa/), a Python package to convert field audio to species-specific, temporally-labeled annotations for use in an autonomous machine learning pipeline
+- Used [deep learning models](https://github.com/UCSD-E4E/acoustic-multiclass-training) to process avian vocalizations on the Acoustic Species Identification team, intended to measure avian biodiversity in the Peruvian Amazon
+- Developed [PyHa](https://github.com/UCSD-E4E/PyHa/), a Python package to convert field audio to species-specific, temporally-labeled annotations for use in an autonomous machine learning pipeline
 - Awarded Halıcıoğlu Data Science Institute [Undergraduate Research Scholarship](https://datascience.ucsd.edu/32-undergraduate-scholarships/)
 - Awarded scholarship x2 times from [Summer Research Internship Program (SRIP)](https://www.ece.ucsd.edu/undergraduate/SRIP)
 - Research Group: [Engineers for Exploration](https://e4e.ucsd.edu)
   - PIs: Dr. Ryan Kastner and Dr. Curt Schurgers
 - Papers:  
-  - Jacob Ayers, Sean Perry, **Samantha Prestrelski,** Tianqi Zhang, Ludwig von Schoenfeldt, Mugen Blue, Gabriel Steinberg, Mathias Tobler, Ian Ingram, Curt Schurgers, and Ryan Kastner. *A Deep Learning Approach to the Automated Segmentation of Bird Vocalizations from Weakly Labeled Crowd-sourced Audio*. NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning (Spotlight Poster). 2024.
-  - Christopher L. Crutchfield, Kyle S. Hu, Vivaswat Suresh, Ana I. Perez, Avik Ghosh, Hamish J. Grant, Kyle Tran, **Samantha Prestrelski,** Ronan Wallace, Nathan Hui, Jack Elstner, Dylan Heppell, Jennifer Loch, Alli Candelmo, Brice X. Semmens, Curt Schurgers, and Ryan Kastner. *FishSense Lite: A camera-based, single laser system for in situ fish length measurement.* Submitted for publication. 2024.
-
+  - J. Ayers, S. Perry, **S. Prestrelski,** T. Zhang, L. von Schoenfeldt, M. Blue, G. Steinberg, M. Tobler, I. Ingram, C. Schurgers, and R. Kastner. A Deep Learning Approach to the Automated Segmentation of Bird Vocalizations from Weakly Labeled Crowd-sourced Audio. *NeurIPS 2024 Workshop on Tackling Climate Change with Machine Learning (Spotlight Poster)*, 2024.
+  - C. L. Crutchfield, K. S. Hu, V. Suresh, A. I. Perez, A. Ghosh, H. J. Grant, K. Tran, **S. Prestrelski,** R. Wallace, N. Hui, J. Elstner, D. Heppell, J. Loch, A. Candelmo, B. X. Semmens, C. Schurgers, and R. Kastner. FishSense Lite: A camera-based, single laser system for in situ fish length measurement. *Submitted for publication,* 2024.
 
 **Web Development Intern @ RASIRC**  
 *Apr 2021 - Mar 2022*  
 - Redesigned [company website](https://www.rasirc.com/) and migrated it from HTML to WordPress, enabling non-technical staff to easily make website updates
--  Implemented a new contact form system for requesting meetings and product information
+- Implemented a new contact form system for requesting meetings and product information
 
 **SONY Connected Learning Pathway**  
 *Sept 2021 - Nov 2021*
@@ -43,10 +42,12 @@ Email: sprestrelski \[at\] ucsd \[dot\] edu
 - Performed market research and competitive analysis on existing technology 
 - Collaboration program between UCSD Design Lab and SONY Human Factors Team
 
+* * *
+
 ### Mentorship Experience
 **Lead Peer Mentor @ CSE-PACE**  
 *Sept 2023 - June 2025*  
-- Lead 1-2 mentoring sessions per week on computer science topics such as machine learning, AI ethics, and academic/career pathways to first year and transfer students.
+- Lead 1-2 mentoring sessions per week on computer science topics including machine learning, AI ethics, and academic/career pathways to first year and transfer students.
 - Program: [Peer-Lead Academic Cohort Experiences](https://pace.ucsd.edu/)
   
 **Tutor @ UCSD CSE Department**  
@@ -64,18 +65,22 @@ Email: sprestrelski \[at\] ucsd \[dot\] edu
 * * *
 
 ### Websites
-[**Association for Computing Machinery - AI Division**](https://ai.acmucsd.com/) -  A club website using React and TypeScript. Competition portal for yearly machine learning competition.    
+[**Association for Computing Machinery - AI Division**](https://ai.acmucsd.com/) -  Club website with competition portal for yearly machine learning competition.  
+Stack: React, TypeScript, MongoDB, Docker, AWS  
 *Sept 2023 - Jun 2025* ([Source](https://github.com/acmucsd/acm-ai-site))  
 
 [**Nutrition Calculator API**](https://rapidapi.com/sprestrelski/api/nutrition-calculator) - API for dietary reference intakes, BMI, and daily caloric needs.  
+Stack: Python, Flask  
 *Jan 2024*   
+
+[**Inclusive CS Instruction**](https://inclusivecs.github.io/) - Archive of material for CSE 191/290 Inclusive CS Instruction: CS Education From Theory To Practice.  
+*Jun 2023*  
 
 [**RASIRC**](https://www.rasirc.com/) - A company website using HTML, CSS, and Wordpress.  
 *Apr 2021 - Mar 2022*  
 
 **Rhythm Room** - A web app enabling synchronous music listening across multiple clients.   
-Stack: Express, React, Node.js, Heroku, the YouTube API, and Socket.io  
-Project Partner: [Jeremy Nguyen](https://www.linkedin.com/in/jeremynguyendev)  
+Stack: Express, React, Node.js, Heroku, YouTube API, and Socket.io  
 *Aug 2021* ([Source](https://github.com/sprestrelski/rhythm-room))  
 
 **Overheard SPIS** - A community message posting board web app.  
@@ -138,3 +143,6 @@ Course descriptions:
 
 
 Updated for Fall 2024. 
+
+- if you're researching me for a job and scrolled this far, you should consider hiring me! or at least say hello :D
+- if you're one of my students, also say hello! why are you stalking me
