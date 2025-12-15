@@ -5,23 +5,26 @@ layout: home
 
 Hello there!  
 
-I'm Samantha, a Math-Computer Science major at [UC San Diego](https://ucsd.edu/).
+I'm Samantha, a Math-Computer Science graduate from [UC San Diego](https://ucsd.edu/). I'm currently a software engineer at [ServiceNow](https://www.servicenow.com/), working on products for [Workflow Data Fabric](https://www.servicenow.com/platform/workflow-data-fabric.html). 
 
-Interests: machine learning, artificial intelligence, software development, data visualization, markup languages, [fish](https://fis.sh/)
-
-Email: sprestrelski \[at\] ucsd \[dot\] edu      
+Email: hi \[at\] sprestrel \[dot\] ski      
 
 ![]()  
 
 * * *
 ### Work Experience
+**Associate Software Engineer @ ServiceNow**  
+*Aug 2025 - Present*  
+
+**Software Engineering Intern @ Amazon Web Services**  
+*May 2025 - Jul 2025*  
+
 **Software Engineering Intern @ ServiceNow**  
 *Jun 2024 - Sep 2024*  
-- Full-stack web development with React and Java on the [IntegrationHub](https://www.servicenow.com/products/integration-hub.html) Core team
 
 **Undergraduate Researcher & Project Co-lead @ UCSD Jacobs School of Engineering**  
 *Mar 2022 - Jun 2024*  
-- Used [deep learning models](https://github.com/UCSD-E4E/acoustic-multiclass-training) to process avian vocalizations on the Acoustic Species Identification team, intended to measure avian biodiversity in the Peruvian Amazon
+- Used [deep learning models](https://github.com/UCSD-E4E/acoustic-multiclass-training) to process avian vocalizations for biodiversity measurements in the Peruvian Amazon
 - Developed [PyHa](https://github.com/UCSD-E4E/PyHa/), a Python package to convert field audio to species-specific, temporally-labeled annotations for use in an autonomous machine learning pipeline
 - Awarded Halıcıoğlu Data Science Institute [Undergraduate Research Scholarship](https://datascience.ucsd.edu/32-undergraduate-scholarships/)
 - Awarded scholarship x2 times from [Summer Research Internship Program (SRIP)](https://www.ece.ucsd.edu/undergraduate/SRIP)
@@ -87,62 +90,10 @@ Stack: Express, React, Node.js, Heroku, YouTube API, and Socket.io
 Stack: Express, Heroku, and PostgreSQL     
 *Aug 2021* ([Source](https://github.com/sprestrelski/overheardspis))  
 
-[**Art Portfolio**](https://sprestrelski.weebly.com/) - A site to store my digital art work in high school using Weebly.  
-*Jan 2019 - Jun 2021*
-
 [**Internet Safety for Everyone**](https://www.isafesd.org/) - A site for an internet safety community service group using Weebly.  
 *Sept 2018 - Jun 2021* 
 
 [**CCA Girls Who Code**](http://ccagirlswhocode.weebly.com/) - A site for my high school Girls Who Code club and robotics team using Weebly.  
 *Aug 2017 - Jun 2021*
 
-
-* * *
-
-### Relevant Classes
-- [CSE 11: Accelerated Intro to Programming](https://ucsd-cse11-f21.github.io/syllabus.html)
-- CSE 12: Basic Data Structures and Object-Oriented Design
-- [CSE 15L: Software Tools and Techniques Laboratory](https://ucsd-cse15l-w22.github.io/)
-    - [Lab Report Website](https://sprestrelski.github.io/cse15l-lab-reports/)
-- [CSE 30: Computer Organization and Systems Programming](https://cseweb.ucsd.edu/~muller/#classes)
-- CSE 100: Advanced Data Structures
-- [CSE 101: Design and Analysis of Algorithms](https://cseweb.ucsd.edu/~dakane/CSE101/)
-- [CSE 105: Theory of Computation](https://theory-cs.github.io/website/courseInfo.html)
-- [CSE 110: Software Engineering](https://sites.google.com/ucsd.edu/cse110fall2023/home)
-  - [Project Repository: PantryPal](https://github.com/sprestrelski/pantrypal)
-- [CSE 130: Programming Languages: Principles and Paradigms](https://nadia-polikarpova.github.io/cse130-web/)
-- CSE 140: Components and Design Techniques for Digital Systems
-- CSE 140L: Digital Systems Laboratory
-- CSE 141: Introduction to Computer Architecture
-- [CSE 145: Embedded Systems Design Project](https://kastner.ucsd.edu/ryan/cse145/)
-  - [Project Report](https://drive.google.com/file/d/1SXEis3fDLvjq8cCrmwD2GHVhplUxQ8rj/view)
-  - [Project Documentation](https://github.com/UCSD-E4E/acoustic-multiclass-training/blob/main/documentation/cse_145_report.md)
-- CSE 191: Inclusive CS Instruction: CS Education From Theory To Practice
-  - [Archive of Seminar Material](https://inclusivecs.github.io/)
-- [COGS 108: Data Science in Practice](https://github.com/COGS108)
-  - [Project Report: Smog Walkability Analysis](https://github.com/sprestrelski/smog-walkability-analysis/blob/main/Report.ipynb)
-- COGS 118B: Unsupervised Machine Learning
-  - [Project Report: Heart Disease Prediction](https://github.com/sprestrelski/heart-disease-prediction)
-- COGS 188: Artificial Intelligence Algorithms
-  - [Project Report: Reinforcement Learning to Avoid Antagonistic Vehicles](https://github.com/YashPatki02/HighwayEnv-COGS188/blob/master/writeup.ipynb)
-- LTCS 180: Programming for the Humanities
-  - [Project Report: Multilingual Sentiment Analysis in News](https://github.com/sprestrelski/multilingual-sentiment-analysis)
-- MATH 18: Linear Algebra
-- MATH 20D: Differential Equations
-- MATH 20E: Vector Calculus
-- MATH 103AB: Abstract Algebra I & II
-- MATH 109: Mathematical Reasoning
-- MATH 154: Discrete Mathematics and Graph Theory
-- MATH 180: Introduction to Probability
-- MATH 181A: Introduction to Mathematical Statistics
-
-Course descriptions:
-- [CSE: Computer Science and Engineering](https://catalog.ucsd.edu/courses/CSE.html)
-- [COGS: Cognitive Science](https://catalog.ucsd.edu/courses/COGS.html)
-- [MATH: Mathematics](https://catalog.ucsd.edu/courses/MATH.html)
-
-
-Updated for Fall 2024. 
-
-- if you're researching me for a job and scrolled this far, you should consider hiring me! or at least say hello :D
-- if you're one of my students, also say hello! why are you stalking me
+Updated last: Fall 2025. 
